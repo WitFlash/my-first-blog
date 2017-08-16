@@ -25,7 +25,9 @@ SECRET_KEY = 'y_&^k-mht$*8^mzj2+1qcd2!#&01y%mg!eq^o!52+j0z5en%py'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['witflash.pythonanywhere.com']
+ALLOWED_HOSTS = ['witflash.pythonanywhere.com',
+                 '127.0.0.1'
+]
 
 
 # Application definition
