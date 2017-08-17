@@ -26,7 +26,8 @@ SECRET_KEY = 'y_&^k-mht$*8^mzj2+1qcd2!#&01y%mg!eq^o!52+j0z5en%py'
 DEBUG = True
 
 ALLOWED_HOSTS = ['witflash.pythonanywhere.com',
-                 '127.0.0.1'
+                 '127.0.0.1',
+                 '192.168.0.16'
 ]
 
 
